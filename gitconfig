@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gabriel.aaagv@gmail.com
+	name = gabriel pires
